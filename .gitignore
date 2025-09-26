@@ -1,2 +1,8 @@
 # Virtual environment directory
 venv/
+
+# Specified files
+__*/
+DS*
+DS*/
+.DS_*
